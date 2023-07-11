@@ -27,7 +27,7 @@ export const metadata = {
     favicon: '/maunicon.png',
 }
 
-const RootLayout = ({ children }) => {
+export default function RootLayout({ children }) {
     return (
         <>
             <style jsx global>
@@ -59,5 +59,3 @@ const RootLayout = ({ children }) => {
         </>
     )
 }
-
-export default RootLayout
