@@ -21,7 +21,7 @@ const bitter = Bitter({
     subsets: ['latin'],
     display: 'swap',
 })
-export const metadata = {
+const metadata = {
     title: 'Doğadan Gelen Konforunuz...',
     description: 'Maun Home Resmi Tanıtım Sitesidir',
     favicon: '/maunicon.png',
