@@ -1,0 +1,77 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    background-color: #f6f3e9;
+}
+/* Top Info Component */
+.info-style {
+    @apply top-0 flex flex-row justify-between py-3 max-w-7xl mx-auto px-3 lg:px-0;
+}
+
+.info-list {
+    @apply flex gap-x-5  items-center;
+}
+
+.main-color {
+    @apply bg-main text-second;
+}
+
+/* Navbar */
+
+.navbar {
+    @apply flex max-w-7xl mx-auto justify-between items-center py-3 lg:py-5 px-3 lg:px-0;
+}
+
+.navbar-links {
+    @apply hover:text-third transitions;
+}
+
+.navbar-sm-links {
+    @apply mr-4 border-b border-main hover:text-third transitions;
+}
+
+.transitions {
+    @apply transition duration-1000 ease-out  delay-100 hover:transition-all;
+}
+
+.embla {
+    overflow: hidden;
+}
+.embla__container {
+    display: flex;
+    object-fit: cover;
+    height: 650px;
+    position: relative;
+}
+.embla__slide {
+    flex: 0 0 100%;
+    min-width: 0;
+}
+
+.embla__container-2 {
+    display: flex;
+    position: relative;
+    object-fit: contain;
+    @apply w-[500px] lg:w-[630px] h-[250px] lg:h-[400px];
+}
+
+.about-content {
+    @apply text-main ml-1 rounded-sm bg-slate-200 p-8;
+}
+
+@keyframes slide-in {
+    0% {
+        transform: translateX(-100%);
+        opacity: 0;
+    }
+    100% {
+        transform: translateX(0);
+        opacity: 1;
+    }
+}
+
+.animate-slide-in {
+    animation: slide-in 0.5s forwards;
+}
