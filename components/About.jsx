@@ -28,13 +28,7 @@ const About = () => {
                         KONFOR VE ŞIKLIĞIN ZİRVESİ
                     </h4>
                     <h5 className="text-lg mt-8">
-                       Doğal zarafet ve üstün kaliteyi bir araya getiren Maun Home,
-                       size benzersiz bir dış mekan deneyimi sunmak için özenle tasarlanmıştır.
-                        Maun Home Bambu olarak, doğa ve çevre koruma konusunda da sorumluluk taşımaktayız.
-                        Sürdürülebilir üretim yöntemlerine ve geri dönüştürülebilir malzemelere öncelik vererek doğal kaynakları korumak için çalışıyoruz. 
-                        Bu şekilde, iç huzurunuzu artırmanın yanı sıra çevreye de katkıda bulunuyoruz.
-                        Maun Home'a gelin ve doğadan gelen konforu keşfedin. 
-                        Şık, dayanıklı ve konforlu bahçe ve balkon mobilyalarımızla yaşam alanlarınızı yeniden şekillendirin. 
+                       Doğal zarafet ve üstün kaliteyi bir araya getiren Maun Home, size benzersiz bir dış mekan deneyimi sunmak için özenle çaba göstermektedir. Maun Home Bambu olarak, doğa ve çevre koruma konusunda da sorumluluk taşımaktayız.  Maun Home'a gelin ve doğadan gelen konforu keşfedin. Şık, dayanıklı ve konforlu bahçe ve balkon mobilyalarımızla yaşam alanlarınızı yeniden şekillendirin. Ayrıca sürdürülebilir üretim yöntemlerine ve geri dönüştürülebilir malzemelere öncelik vererek doğal kaynakları korumak için çalışıyoruz. Bu şekilde, iç huzurunuzu artırmanın yanı sıra çevreye de katkıda bulunuyoruz.
                     </h5>
                 </div>
             </div>
