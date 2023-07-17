@@ -7,7 +7,7 @@ const Info = () => {
         <div className="bg-third text-second">
             <div className="info-style">
                 <Link
-                    href="tel:04522321111"
+                    href="tel:4522321111"
                     className="hover:text-blue-100 flex items-center"
                 >
                     <BiPhone className="mr-1.5 w-6 h-6" />
