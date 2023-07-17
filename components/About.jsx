@@ -28,13 +28,13 @@ const About = () => {
                         KONFOR VE ŞIKLIĞIN ZİRVESİ
                     </h4>
                     <h5 className="text-lg mt-8">
-                        Lorem, ipsum dolor sit amet consectetur adipisicing
-                        elit. Sed, facere quasi possimus recusandae deleniti
-                        aperiam, nemo quisquam blanditiis commodi consequuntur
-                        magnam sit asperiores adipisci veritatis tempora, labore
-                        consequatur reiciendis a inventore? Voluptas
-                        voluptatibus labore perspiciatis corporis dolorum esse
-                        reprehenderit incidunt.
+                       Doğal zarafet ve üstün kaliteyi bir araya getiren Maun Home,
+                       size benzersiz bir dış mekan deneyimi sunmak için özenle tasarlanmıştır.
+                        Maun Home Bambu olarak, doğa ve çevre koruma konusunda da sorumluluk taşımaktayız.
+                        Sürdürülebilir üretim yöntemlerine ve geri dönüştürülebilir malzemelere öncelik vererek doğal kaynakları korumak için çalışıyoruz. 
+                        Bu şekilde, iç huzurunuzu artırmanın yanı sıra çevreye de katkıda bulunuyoruz.
+                        Maun Home'a gelin ve doğadan gelen konforu keşfedin. 
+                        Şık, dayanıklı ve konforlu bahçe ve balkon mobilyalarımızla yaşam alanlarınızı yeniden şekillendirin. 
                     </h5>
                 </div>
             </div>
