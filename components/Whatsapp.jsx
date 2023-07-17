@@ -16,7 +16,7 @@ const Whatsapp = () => {
 
     return (
         <Link
-            href="https://wa.me/05417958656"
+            href="https://wa.me/+905417958656"
             className="bg-green-500 items-center  flex rounded-full fixed z-10 
             bottom-10 left-10 cursor-pointer hover:bg-green-600 hover:text-slate-50 text-slate-200"
             onMouseEnter={handleHover}
